@@ -1,4 +1,4 @@
-![Fsd Ramjan Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+ 
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ramjan</h2>
 
@@ -19,6 +19,10 @@
 ### 🛠 &nbsp;Tech Stack
 
 
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Flutter](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
+![Flutter](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Flutter](https://img.shields.io/badge/-Hive-05122A?style=flat&logo=hive)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -37,13 +41,12 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-fsdramjan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/fsdramjan"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:fsd.ramjan@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/fsdramjan"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/ramjan.flutter.dev"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/fsdramjan"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/fsdramjan"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://linkedin.com/in/fsdramjan"><img src="https://img.shields.io/badge/-@fsdramjan-05122A?style=flat&logo=Linkedin&logoColor=blue"/></a>
+<a href="mailto:fsd.ramjan@gmail.com"><img src="https://img.shields.io/badge/-@fsdramjan-05122A?style=flat&logo=Gmail&logoColor=red"/></a>
+<a href="https://instagram.com/fsdramjan"><img src="https://img.shields.io/badge/-@fsdramjan-05122A?style=flat&logo=Instagram&logoColor=orange"/></a>
+<a href="https://facebook.com/ramjan.flutter.dev"><img src="https://img.shields.io/badge/-@fsdramjan-05122A?style=flat&logo=Facebook&logoColor=blue"/></a>
+<a href="https://www.pinterest.ca/fsdramjan"><img src="https://img.shields.io/badge/-@fsdramjan-05122A?style=flat&logo=Pinterest&logoColor=red"/></a>
+<a href="https://www.behance.net/fsdramjan"><img src="https://img.shields.io/badge/-@fsdramjan-05122A?style=flat&logo=Behance&logoColor=blue"/></a>
 </p>
 
 -----
