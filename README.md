@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I am playing some mobile games with my buddy.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at fsd.ramjan@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.linkedin.com/in/fsdramjan/overlay/1635494515142/single-media-viewer/) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1Vv-nZZdz0NjeqTY2yigM7OjAjiQgMwU2/view) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
